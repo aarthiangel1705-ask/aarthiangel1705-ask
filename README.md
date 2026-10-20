@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Aarthi 👋
 
-<!--
-**aarthiangel1705-ask/aarthiangel1705-ask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | MSc Chemistry
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning Data Analytics and building practical projects to improve my analytical and technical skills.
+
+## 👩‍💻 About Me
+
+- 🎓 MSc Chemistry graduate
+- 📊 Learning Data Analytics
+- 🌱 Improving my skills in Excel, SQL, Power BI and Python
+- 🎯 Goal: Build a career in Data Analytics
+
+## 🛠️ Skills & Tools
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+
+## 📂 My Projects
+
+Explore my repositories for my assignments, learning progress and data analytics projects.
+
+## 📫 Connect With Me
+
+- GitHub: [@aarthiangel1705-ask](https://github.com/aarthiangel1705-ask)
